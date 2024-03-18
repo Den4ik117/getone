@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Den4ik117/getone/issues"
   },
-  "homepage": "https://github.com/Den4ik117/getone#readme"
+  "homepage": "https://github.com/Den4ik117/getone#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@denchik1170"
+  }
 }
