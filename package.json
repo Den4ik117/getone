@@ -1,0 +1,22 @@
+{
+  "name": "@denchik1170/getone",
+  "version": "1.0.0",
+  "description": "The package allows you to get one",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den4ik117/getone.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Denis Zagvozdin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Den4ik117/getone/issues"
+  },
+  "homepage": "https://github.com/Den4ik117/getone#readme"
+}
